@@ -1,4 +1,4 @@
-# The Machine learning project at NYCDSA
+# The Machine Learning Project at NYCDSA
 
 ## About
 
