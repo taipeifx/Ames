@@ -2,7 +2,7 @@
 
 ## About
 
-The project uses Kaggle data on Ames (Iowa) housing prices and various machine learning techniques to build a predictive model.
+This group project uses Kaggle data on Ames (Iowa) housing prices and various machine learning techniques to build a predictive model.
 
 ## Data
 Besides original Kaggle data we add several more features:
